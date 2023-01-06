@@ -107,9 +107,13 @@
     border-radius: 6px;
 }
 /* two section */
+.two-main{
+    background-color: #f7f7f7;
+    padding: 50px 0px;
+}
  .two-sec{
     display: flex;
-    margin: 100px 300px;
+    margin: 200px 300px;
     justify-content: center;
  }
     .left-text{
@@ -126,4 +130,36 @@
  .right-image img{
     border-radius: 12px;
  }
+ .right-text{
+    padding: 50px 00px 50px 100px
+ }
 /* two section */
+
+/* contact */
+.contact{
+    padding: 100px 0px  ;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    background-color: rgb(231, 226, 145);
+    margin: 50px 350px;
+    border-radius: 12px;
+}
+.f-email{
+    font-size: 18px;
+    padding: 20px 45px;
+    border: 0px;
+    border-radius: 6px 0px 0px 6px;
+}
+.f-submit{
+    font-size: 18px;
+    padding: 20px 30px;
+    color: white;
+    background-color: orange;
+    border: 0px;
+    border-radius: 0px 6px 6px 0px;
+}
+
+/* contact */
