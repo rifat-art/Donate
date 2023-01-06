@@ -41,3 +41,64 @@
     margin-top: 25px;
 }
 /* hero close */
+/* donate start */
+.donate-section{
+    margin: 100px 0px;
+}
+.donate-title{
+    font-size: 45px;
+    text-align: center;
+}
+.donate-discription{
+    font-size: 18px;
+    text-align: center;
+    margin-top: 25px;
+
+}
+
+.donate-taka{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    gap: 10px;
+    text-align: center;
+    margin: 25px 200px;
+}
+.donate-taka li{
+    background-color: aqua;
+    padding: 25px 40px;
+    border-radius: 4px;
+}
+
+
+
+/* donate close */
+
+.three-box{
+    display: flex;
+    margin: 50px 200px;
+    gap: 15px;
+}
+.box-title{
+    font-size: 24px;
+    font-weight: 300px;
+    margin: 15px 0px ;
+}
+.box-discription{
+    font-size: 18px;
+    font-weight: 300px;
+}
+.box-one{
+    background-color: aquamarine;
+    padding: 25px;
+    border-radius: 6px;
+}
+.box-two{
+    background-color: rgba(201, 111, 47, 0.699);
+    padding: 25px;
+    border-radius: 6px;
+}.box-three{
+    background-color: bisque;
+    padding: 25px;
+    border-radius: 6px;
+}
