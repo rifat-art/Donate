@@ -8,6 +8,8 @@
     background-color: aquamarine;
     background-repeat: no-repeat;
     background-size: cover;
+    padding: 220px 200px;
+    
     
 
 }
@@ -31,8 +33,11 @@
     padding: 15px 35px;
     border-radius: 4px;
     font-size: 18px;
-    margin: auto;
-    
-
+}
+.hero-button{
+    display: flex;
+    margin: 0;
+    justify-content: center;
+    margin-top: 25px;
 }
 /* hero close */
