@@ -43,7 +43,9 @@
 /* hero close */
 /* donate start */
 .donate-section{
-    margin: 100px 0px;
+    margin: 100px 200px;
+    justify-content: center;
+    align-items: center;
 }
 .donate-title{
     font-size: 45px;
@@ -59,10 +61,10 @@
 .donate-taka{
     display: flex;
     list-style: none;
-    justify-content: space-between;
     gap: 10px;
     text-align: center;
-    margin: 25px 200px;
+    margin: 50px 200px;
+    justify-content: center;
 }
 .donate-taka li{
     background-color: aqua;
@@ -73,7 +75,9 @@
 
 
 /* donate close */
-
+.plan{
+    margin: 0px 200px;
+}
 .three-box{
     display: flex;
     margin: 50px 200px;
@@ -102,3 +106,24 @@
     padding: 25px;
     border-radius: 6px;
 }
+/* two section */
+ .two-sec{
+    display: flex;
+    margin: 100px 300px;
+    justify-content: center;
+ }
+    .left-text{
+        padding: 50px;
+    }
+ .lt-title{
+    font-size: 35px;
+ }
+ .li-dis{
+    font-size: 18px;
+    padding-right: 100px;
+    margin: 25px 0px;
+ }
+ .right-image img{
+    border-radius: 12px;
+ }
+/* two section */
