@@ -1,0 +1,206 @@
+@media only screen and (max-width:480px) {
+    
+    .hero{
+        background-image: none;
+        background-color: beige;
+        padding: 50px 0px;
+    }
+
+    .hero-title {
+        font-size: 30px;
+        font-weight: 600;
+        color: orange;
+        text-align: center;
+    }
+
+    .hero-discription {
+        font-size: 18px;
+        font-weight: 400;
+        color: black;
+        text-align: center;
+        margin: 10px 20px;
+    }
+    .hero-discription br{
+        display: none;
+    }
+
+/* hero close */
+
+
+.donate-section{
+    width: 100% ;
+    margin: 20px auto;
+}
+.donate-taka{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+
+/* donate close */
+
+
+.plan{
+    width: 100% ;
+    margin: auto;
+}
+.donate-title {
+    font-size: 25px;
+    text-align: center;
+}
+.three-box{
+    display: flex;
+    flex-direction: column;
+    margin: 20px auto;
+}
+.box-two{
+    margin: 0px 20px;
+}
+.box-one{
+    margin: 0px 20px;
+}
+.box-three{
+    margin: 0px 20px;
+}
+
+/* our plan end */
+.contact{
+    width: 100%;
+    margin: auto;
+}
+.form{
+    margin: 20px auto;
+    padding: 30px 20px;
+    border-radius: 0px;
+
+}
+/* contact end */
+
+.footer{
+    margin: auto;
+}
+.two-sec{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: column-reverse;
+}
+.two-sec img{
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+    /* .hide{
+        display: none;
+    } */
+}
+
+
+@media only screen and (max-width:768px){
+
+
+    .hero{
+        background-image: none;
+        background-color: beige;
+        padding: 50px 0px;
+    }
+
+    .hero-title {
+        font-size: 30px;
+        font-weight: 600;
+        color: orange;
+        text-align: center;
+    }
+
+    .hero-discription {
+        font-size: 18px;
+        font-weight: 400;
+        color: black;
+        text-align: center;
+        margin: 10px 20px;
+    }
+    .hero-discription br{
+        display: none;
+    }
+
+/* hero close */
+
+
+.donate-section{
+    width: 100% ;
+    margin: 20px auto;
+}
+.donate-taka{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+
+/* donate close */
+
+
+.plan{
+    width: 100% ;
+    margin: auto;
+}
+.donate-title {
+    font-size: 25px;
+    text-align: center;
+}
+.three-box{
+    display: flex;
+    flex-direction: column;
+    margin: 20px auto;
+}
+.box-two{
+    margin: 0px 20px;
+}
+.box-one{
+    margin: 0px 20px;
+}
+.box-three{
+    margin: 0px 20px;
+}
+
+/* our plan end */
+.contact{
+    width: 100%;
+    margin: auto;
+}
+.form{
+    margin: 20px auto;
+    padding: 30px 20px;
+    border-radius: 0px;
+
+}
+/* contact end */
+
+.footer{
+    margin: auto;
+}
+.two-sec{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: column-reverse;
+}
+.two-sec img{
+    width: 100%;
+}
+
+
+
+
+
+
+/* end */
+}
